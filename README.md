@@ -1,7 +1,14 @@
-![Screenshot](https://i.ibb.co/fCvqx9C/taxi.png)
+Login page
+![Screenshot](https://i.ibb.co/KqvXh0C/login.jpg)
 
-![Screenshot](https://ibb.co/G2S0pxg)
-![Screenshot](https://ibb.co/nn360YR)
-![Screenshot](https://ibb.co/h2hhr46)
-![Screenshot](https://ibb.co/mB6xyLp)
-![Screenshot](https://ibb.co/rmyz73S)
+Registration page
+![Screenshot](https://i.ibb.co/XbJK2Dg/registration.jpg)
+
+Profile page
+![Screenshot](https://i.ibb.co/7z29pwh/profile.jpg)
+
+Map page
+![Screenshot](https://i.ibb.co/mXvbB2S/map.jpg)
+
+Order page
+![Screenshot](https://i.ibb.co/wp338Pk/order.jpg)
